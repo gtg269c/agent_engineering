@@ -1,0 +1,32 @@
+minimum_employee_count: 5000
+maximum_employee_count: null
+
+preferred_industries:
+  - manufacturing
+  - industrial_automation
+  - automotive_manufacturing
+  - electronics_manufacturing
+  - industrial_equipment
+
+excluded_industries:
+  - consumer_retail
+  - restaurants
+  - personal_services
+
+preferred_regions:
+  - united_states
+  - europe
+  - india
+
+buying_signals:
+  - new_ai_leadership
+  - digital_transformation_program
+  - plant_modernization
+  - genai_hiring
+  - manufacturing_data_initiative
+
+required_fields:
+  - company_name
+  - industry
+  - employee_count
+  - region

@@ -1,0 +1,16 @@
+company_name: Apex Industrial Systems
+industry: industrial_automation
+employee_count: 12000
+region: united_states
+buying_signals:
+  - plant_modernization
+  - new_ai_leadership
+account_notes: Target account expressing strong interest in plant operations modernization.
+evidence:
+  - claim: Apex Industrial Systems announced a $50M plant-modernization initiative.
+    classification: verified_fact
+    source:
+      name: Company Press Release
+      url: https://example.com/press/apex-modernization
+      retrieved_at: "2026-08-07"
+    excerpt: Apex Industrial Systems launched a multiyear initiative to modernize plant operations.
